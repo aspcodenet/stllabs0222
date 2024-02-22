@@ -5,5 +5,8 @@
             "binaryPath": "c:\\Users\\stefa\\source\\stllabs0222\\main.exe",
             "binaryArgs": []
         }
-    ]
+    ],
+    "files.associations": {
+        "iosfwd": "cpp"
+    }
 }
